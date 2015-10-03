@@ -1,2 +1,2 @@
 # HelloWorldCsharp
-its a ameture program.
+its a amature program.
